@@ -9,6 +9,10 @@ const Home = () => {
       <Helmet>
         <title>Home Page</title>
         <meta name="description" content="This is the Home page" />
+        {/* Open Graph meta tags */}
+        <meta property="og:title" content="Home Page" />
+        <meta property="og:description" content="This is the Home page" />
+        <meta property="og:image" content="URL_TO_AN_IMAGE" />
       </Helmet>
 
       <Link to="/hello">

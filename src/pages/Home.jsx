@@ -17,7 +17,7 @@ const Home = () => {
 
       <Link to="/hello">
         <button className="bg-red-500 hover:bg-blue-700 ml-11 text-white font-bold py-2 px-4 rounded mt-4">
-          Next Page
+          Nextrr Page
         </button>
       </Link>
       <div className="font-pacifico">What is Lorem Ipsum?</div>

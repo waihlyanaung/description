@@ -15,7 +15,7 @@ const Hello = () => {
         <meta property="og:url" content="URL_TO_HELLO_PAGE" /> */}
         <meta property="og:type" content="website" />
       </Helmet>
-      Hello  new
+      Hello  new FRi
     </div>
   );
 };

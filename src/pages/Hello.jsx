@@ -11,7 +11,9 @@ const Hello = () => {
         {/* Open Graph meta tags */}
         <meta property="og:title" content="Hello Page" />
         <meta property="og:description" content="This is the Hello page" />
-        <meta property="og:image" content="URL_TO_AN_IMAGE" />
+        {/* <meta property="og:image" content="URL_TO_AN_IMAGE" />
+        <meta property="og:url" content="URL_TO_HELLO_PAGE" /> */}
+        <meta property="og:type" content="website" />
       </Helmet>
       Hello
     </div>
